@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.5b139bc5.css",
-    "main.js": "/static/js/main.29204dbe.js",
-    "static/js/453.7782ea40.chunk.js": "/static/js/453.7782ea40.chunk.js",
-    "static/media/8.jpg": "/static/media/8.4a59b66feb6162ff689e.jpg",
-    "static/media/4.jpg": "/static/media/4.c528c52e8a336410b0f1.jpg",
-    "static/media/machete-can.png": "/static/media/machete-can.8b55f22ab51dafcea8da.png",
-    "static/media/9.jpg": "/static/media/9.d86c0a18efea636cc1b3.jpg",
-    "static/media/2.jpg": "/static/media/2.e8322a0b5a0beb47a32a.jpg",
-    "static/media/7.jpg": "/static/media/7.d24157f31831cf8d2129.jpg",
-    "static/media/5.jpg": "/static/media/5.089f8fca9e424777ac90.jpg",
-    "static/media/3.jpg": "/static/media/3.7b2d8ae25304fcc15e4f.jpg",
-    "static/media/machete_banner.jpg": "/static/media/machete_banner.9a1e2fcb630dbbb8d486.jpg",
-    "static/media/1.jpg": "/static/media/1.e9a28cacb296944fdec0.jpg",
-    "static/media/6.jpg": "/static/media/6.20171be79d993e68fff0.jpg",
-    "static/media/machete-can-top.jpg": "/static/media/machete-can-top.ec46e7e0c3c6cd4a3956.jpg",
-    "index.html": "/index.html",
-    "main.5b139bc5.css.map": "/static/css/main.5b139bc5.css.map",
-    "main.29204dbe.js.map": "/static/js/main.29204dbe.js.map",
-    "453.7782ea40.chunk.js.map": "/static/js/453.7782ea40.chunk.js.map"
+    "main.css": "/machete-energy-react/static/css/main.5b139bc5.css",
+    "main.js": "/machete-energy-react/static/js/main.63fc76c2.js",
+    "static/js/453.7782ea40.chunk.js": "/machete-energy-react/static/js/453.7782ea40.chunk.js",
+    "static/media/8.jpg": "/machete-energy-react/static/media/8.4a59b66feb6162ff689e.jpg",
+    "static/media/4.jpg": "/machete-energy-react/static/media/4.c528c52e8a336410b0f1.jpg",
+    "static/media/machete-can.png": "/machete-energy-react/static/media/machete-can.8b55f22ab51dafcea8da.png",
+    "static/media/9.jpg": "/machete-energy-react/static/media/9.d86c0a18efea636cc1b3.jpg",
+    "static/media/2.jpg": "/machete-energy-react/static/media/2.e8322a0b5a0beb47a32a.jpg",
+    "static/media/7.jpg": "/machete-energy-react/static/media/7.d24157f31831cf8d2129.jpg",
+    "static/media/5.jpg": "/machete-energy-react/static/media/5.089f8fca9e424777ac90.jpg",
+    "static/media/3.jpg": "/machete-energy-react/static/media/3.7b2d8ae25304fcc15e4f.jpg",
+    "static/media/machete_banner.jpg": "/machete-energy-react/static/media/machete_banner.9a1e2fcb630dbbb8d486.jpg",
+    "static/media/1.jpg": "/machete-energy-react/static/media/1.e9a28cacb296944fdec0.jpg",
+    "static/media/6.jpg": "/machete-energy-react/static/media/6.20171be79d993e68fff0.jpg",
+    "static/media/machete-can-top.jpg": "/machete-energy-react/static/media/machete-can-top.ec46e7e0c3c6cd4a3956.jpg",
+    "index.html": "/machete-energy-react/index.html",
+    "main.5b139bc5.css.map": "/machete-energy-react/static/css/main.5b139bc5.css.map",
+    "main.63fc76c2.js.map": "/machete-energy-react/static/js/main.63fc76c2.js.map",
+    "453.7782ea40.chunk.js.map": "/machete-energy-react/static/js/453.7782ea40.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5b139bc5.css",
-    "static/js/main.29204dbe.js"
+    "static/js/main.63fc76c2.js"
   ]
 }
