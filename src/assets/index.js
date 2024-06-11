@@ -1,0 +1,9 @@
+export const first = require('./1.jpg');
+export const second = require('./2.jpg');
+export const third = require('./3.jpg');
+export const fourth = require('./4.jpg');
+export const fifth = require('./5.jpg');
+export const sixth = require('./6.jpg');
+export const seventh = require('./7.jpg');
+export const eight = require('./8.jpg');
+export const ninth = require('./9.jpg');
